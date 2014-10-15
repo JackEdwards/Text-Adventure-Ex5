@@ -1,3 +1,5 @@
+# Exercise 5 worksheet
+
 #!/usr/bin/python3
 
 import os
